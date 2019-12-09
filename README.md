@@ -1,2 +1,5 @@
 # hello-world
-this is my first repository
+
+Hi There
+
+My name is Ashton and my mother things im a a typist
